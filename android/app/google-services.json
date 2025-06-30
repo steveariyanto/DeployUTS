@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "54137124903",
+    "project_id": "palp-120da",
+    "storage_bucket": "palp-120da.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54137124903:android:26689ffcee5be45148f602",
+        "android_client_info": {
+          "package_name": "com.example.palp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCilwZRDNkm9eKXxQlr21sZ0FZE_20Ombo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
